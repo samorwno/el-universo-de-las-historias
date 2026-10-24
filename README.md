@@ -16,6 +16,8 @@ Abre `index.html` en cualquier navegador moderno o visita la versión publicada:
 
 https://samorwno.github.io/el-universo-de-las-historias/
 
-## Créditos
+## Créditos de creación
 
-Sergio Moreno • UNimagdalena • 2026
+Maria Carvajal • Jessica Lépez • Orlando Tejeda • Sergio Moreno • Eduardo Garavito
+
+Universidad del Magdalena • 2026
